@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -91,14 +93,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -120,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
