@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0344-reverse-string) |
