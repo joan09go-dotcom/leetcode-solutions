@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -157,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
