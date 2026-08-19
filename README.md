@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
